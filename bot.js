@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix = "b"
+var prefix = "2"
 var adminprefix = 'b'
 
 
@@ -23,7 +23,7 @@ client.on("message", message => {
 //bc online
 
 
-  var prefix = "b";
+  var prefix = "2";
 
   client.on("message", message => {
   
